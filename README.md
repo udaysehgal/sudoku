@@ -11,7 +11,7 @@ This is a simple Sudoku solver implemented in React.js. It uses a backtracking a
 
 2. Navigate to the folder
    ```bash
-   git clone git@github.com:udaysehgal/sudoku.gitcd sudoku
+   cd sudoku
 3. Start the website
     ```bash
    Run npm start
